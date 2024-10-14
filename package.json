@@ -1,7 +1,7 @@
 {
   "name": "node-file-manager",
   "version": "1.0.0",
-  "description": "File Manager task RS-NodeJS2024Q1",
+  "description": "File Manager task RS-NodeJS2024Q3",
   "main": "index.js",
   "type": "module",
   "scripts": {
